@@ -1,0 +1,9 @@
+C:\Users\chendric\source\repos\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe.config
+C:\Users\chendric\source\repos\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe
+C:\Users\chendric\source\repos\AntiVirus\AntiVirus\bin\Debug\AntiVirus.pdb
+C:\Users\chendric\source\repos\AntiVirus\AntiVirus\obj\Debug\AntiVirus.csprojAssemblyReference.cache
+C:\Users\chendric\source\repos\AntiVirus\AntiVirus\obj\Debug\AntiVirus.Form1.resources
+C:\Users\chendric\source\repos\AntiVirus\AntiVirus\obj\Debug\AntiVirus.Properties.Resources.resources
+C:\Users\chendric\source\repos\AntiVirus\AntiVirus\obj\Debug\AntiVirus.csproj.GenerateResource.cache
+C:\Users\chendric\source\repos\AntiVirus\AntiVirus\obj\Debug\AntiVirus.exe
+C:\Users\chendric\source\repos\AntiVirus\AntiVirus\obj\Debug\AntiVirus.pdb
